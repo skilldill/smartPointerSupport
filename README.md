@@ -11,7 +11,7 @@ If you encountered an issue, want to suggest a new feature, or need help — you
 
 Please create a new **GitHub Issue**:
 
-👉 https://github.com/YOUR_USERNAME/YOUR_REPO/issues
+👉 https://github.com/skilldill/smartPointerSupport/issues
 
 When creating an issue, include:
 
